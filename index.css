@@ -1,0 +1,155 @@
+body{
+	background-image: url("bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#below{
+	line-height: 480px;
+}
+
+#below img{
+	max-height: 400px;
+	max-width: 620px;
+
+	vertical-align: middle;
+	
+
+}
+
+.progress{
+	margin-top: 10px;
+}
+
+.bg-warning{
+	margin-bottom: 
+}
+
+#results{
+	font-family: 'Gaegu',cursive;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	font-weight: bold ;
+	font-size: 25px;
+	color: white;
+	
+	line-height: 20px;
+}
+
+#parent_tomato{
+	line-height: 100px;
+}
+
+h5{
+	color: white;
+	font-size: 20px;
+}
+
+
+h3{
+	color: #FF9900;
+	font-family: 'Gaegu',cursive;
+	font-weight: bold;
+	border-bottom: 3px solid black;
+	background-color: #152939;
+
+}
+#hm{
+
+	color: #FF9900;
+	font-family: 'Gaegu',cursive;
+	font-weight: bold;
+	font-size: 50px;
+	border-bottom: 3px solid black;
+	background-color: #152939;
+	height: 60px;
+
+}
+
+h4{
+	color:white;
+	font-family: 'Indie Flower', cursive;
+	font-weight: bold;
+	font-size: 25px;
+	margin: auto;
+}
+.active{
+	border-bottom: 4px solid black;
+}
+
+.below_left{
+	border-right: 1px solid black;
+	height: 480px;
+}
+
+.below_right{
+	border-left: 1px solid black;
+	line-height: 20px;
+	/*height: 480px;*/
+}
+
+#hellotable{
+
+	margin-top: 25px;
+	/*display: none;*/
+	background-color: #152939;
+
+
+}
+#hellotable2{
+
+	margin-top: 15px;
+	/*display: none;*/
+	background-color: #FF9900;
+	border-collapse: collapse;
+	table-layout: auto;
+
+
+}
+
+
+
+th{
+	border-right: 2px solid black;
+	width: 150px;
+	font-size: 20px;
+	padding: 10px;
+	color: white;
+	font-family: 'Gaegu',cursive;
+}
+
+td{
+	padding-left: 20px;
+	padding-right: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	color : white;
+
+}
+
+table#hellotable tr{
+	border-bottom: 2px solid black;
+}
+
+table#hellotable2 tr{
+	
+}
+
+table#hellotable2 th{
+	color: black;
+	border: 2px solid black;
+	padding: 5px 5px 5px 5px;
+}
+table#hellotable2 td{
+	color: black;
+	width: 200px;
+	border: 2px solid black;
+	padding: 5px 5px 5px 5px;
+}
+
+
+#secIm{
+	margin-top: 150px;
+	height: 150px;
+	width: 150px;
+	
+}
